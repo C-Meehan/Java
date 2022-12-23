@@ -1,0 +1,9 @@
+* {
+	width: 80%
+}
+
+.main {
+	background-color: #9FC5F8;
+	width: 40%;
+	border: 2px solid black;
+}
