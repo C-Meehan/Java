@@ -1,0 +1,55 @@
+.main-container{
+	margin: 0 auto;
+	width: 65%;
+	background-color: slategrey;
+	padding: 20px;
+}
+
+.main-top{
+	color: blanchedalmond;
+}
+
+.main-bottom{
+	color: blanchedalmond;
+}
+
+.submit{
+	background-color: #085394;
+	color: white;
+	width: 120px;
+	margin-left: 465px;
+}
+
+.delete{
+	margin-right: 20px;
+	background-color: #E06666;
+	border: 2px solid black;
+	box-shadow: 2px 2px 2px;
+	width: 120px;
+}
+
+.delete a{
+	text-decoration: none;
+	color: white;
+}
+
+.actions{
+	display: flex;
+}
+
+.edit-nav {
+	display: flex;
+	justify-content: space-between;
+}
+
+input{
+	margin-left: 200px;
+	width: 260px;
+	
+}
+
+.form{
+	margin: 30px;
+	font-size: 25px;
+}
+
