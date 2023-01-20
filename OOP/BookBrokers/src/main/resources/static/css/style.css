@@ -1,0 +1,70 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.main {
+	margin: 0px auto;
+	width: 70%;
+	background-color: #C1C1C1;
+	text-align: center;
+	padding: 20px;
+	border: 2px solid black;
+}
+
+.nav {
+	height: 100px;
+	display: flex;
+	flex-direction: column;
+	border: 2px solid black;
+	margin-bottom: 20px;
+}
+
+.registration {
+	background-color: #9FC5F8;
+	border: 2px solid black;
+	padding: 10px;
+}
+
+.form {
+	margin: 20px;
+	font-size: 18px;
+}
+
+.login {
+	margin-top: 20px;
+	background-color: #9FC5F8;
+	border: 2px solid black;
+	padding: 10px;
+}
+
+.submit {
+	width: 30%;
+	font-size: 20px;
+	box-shadow: 2px 2px 2px black;
+}
+
+.homepage-main {
+	margin: 0 auto;
+	width: 70%;
+	background-color: grey;
+	border: 2px solid black;
+}
+
+.homepage-nav {
+	padding: 10px;
+}
+
+.homepage-nav-top {
+	display: flex;
+	justify-content: space-between;
+}
+
+.homepage-nav-bottom {
+	display: flex;
+	justify-content: space-between;
+}
+
+a{
+	color: white;
+}
